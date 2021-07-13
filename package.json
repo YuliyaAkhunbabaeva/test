@@ -34,7 +34,7 @@
     "@wdio/spec-reporter": "^6.3.0",
     "@wdio/sync": "^6.3.3",
     "allure-commandline": "^2.13.0",
-    "chromedriver": "^84.0.0",
+    "chromedriver": "^91.0.1",
     "prettier": "^2.0.5",
     "wdio-chromedriver-service": "^6.0.3"
   }
