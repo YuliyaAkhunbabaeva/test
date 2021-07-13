@@ -1,7 +1,7 @@
 {
   "name": "wdio-mocha-boilerplate",
   "version": "1.0.0",
-  "description": "WebdriverIO Testing Template",
+  "description": "Enrich project",
   "main": "README.md",
   "scripts": {
     "test": "wdio wdio.conf.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/st-newyork/wdio-mocha-boilerplate.git"
+    "url": "https://github.com/YuliyaAkhunbabaeva/test.git"
   },
   "keywords": [
     "wdio",
     "mocha",
     "bdd"
   ],
-  "author": "Sergey Troyeglazov",
+  "author": "Yuliya Akhunbabaeva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/st-newyork/wdio-mocha-boilerplate/issues"
+    "url": "https://github.com/YuliyaAkhunbabaeva/test.git"
   },
   "homepage": "https://github.com/st-newyork/wdio-mocha-boilerplate#readme",
   "devDependencies": {
