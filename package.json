@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/YuliyaAkhunbabaeva/test.git"
   },
-  "homepage": "https://github.com/st-newyork/wdio-mocha-boilerplate#readme",
+  "homepage": "https://github.com/YuliyaAkhunbabaeva/test.git#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
