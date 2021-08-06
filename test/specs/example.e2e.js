@@ -53,8 +53,20 @@ describe('My Login application', () => {
       ProjectsPage.changesLink.click();
       browser.switchToParentFrame();
       browser.switchToFrame($('[name=pb_quick_pub]'));
-      // ProjectsPage.checkAll.moveTo();
-      //  ProjectsPage.checkAll.click();
+      
     });
-  });
-});
+    
+    describe('API', () => {
+      it('Check if axios works', async () => {
+        const response = await axios.get('https://pharma.enrichconsulting.com/facttableservice/rawfact/proj/262/5/Revenue_yrs_base', {})
+          .then(function (response) {
+            console.log(response);
+          })
+          .catch(function (error) {
+            console.log(error);
+          });
+      })
+    })
+  })
+})
+
